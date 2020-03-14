@@ -8,9 +8,10 @@
 - https://web.getmonero.org/resources/moneropedia/ringsignatures.html
 - https://www.reddit.com/r/Monero/comments/7pemsk/please_explain_ring_signatures_with_technical/
 - https://novicedock.com/learn/cryptocurrency/monero/ring-signatures-ringct-stealth-addresses
+- https://steemit.com/monero/@luigi1111/understanding-monero-cryptography-privacy-introduction
 
 ## Bitcoin
-- https://en.bitcoin.it/wiki/Weaknesses
+- ttps://en.bitcoin.it/wiki/Weaknesses
 - https://bitcoin.org/bitcoin.pdf
 - https://bitcoin.org/en/how-it-works
 - https://allprivatekeys.com/bitcoin-address-format
