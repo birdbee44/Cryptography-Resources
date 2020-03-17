@@ -8,6 +8,8 @@
 - https://web.getmonero.org/resources/moneropedia/ringsignatures.html
 - https://www.reddit.com/r/Monero/comments/7pemsk/please_explain_ring_signatures_with_technical/
 - https://novicedock.com/learn/cryptocurrency/monero/ring-signatures-ringct-stealth-addresses
+- https://medium.com/@philipshen13/monero-part-1-key-concepts-3671186016c6
+- https://medium.com/@philipshen13/monero-part-2-how-it-works-983a6344bd58
 
 ## Bitcoin
 - ttps://en.bitcoin.it/wiki/Weaknesses
