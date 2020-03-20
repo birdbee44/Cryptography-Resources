@@ -12,7 +12,7 @@
 - https://medium.com/@philipshen13/monero-part-2-how-it-works-983a6344bd58
 
 ## Bitcoin
-- ttps://en.bitcoin.it/wiki/Weaknesses
+- https://en.bitcoin.it/wiki/Weaknesses
 - https://bitcoin.org/bitcoin.pdf
 - https://bitcoin.org/en/how-it-works
 - https://allprivatekeys.com/bitcoin-address-format
@@ -21,7 +21,7 @@
 - https://www.blockchain.com/explorer
 - https://bitcoinwhoswho.com/
 - https://en.bitcoin.it/wiki/Privacy
-
+- https://blog.hubspot.com/marketing/bitcoin-address
 
 
 ## BlockChains
