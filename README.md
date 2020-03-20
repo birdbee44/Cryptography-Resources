@@ -13,7 +13,9 @@
 - https://novicedock.com/learn/cryptocurrency/monero/ring-signatures-ringct-stealth-addresses
 - https://medium.com/@philipshen13/monero-part-1-key-concepts-3671186016c6
 - https://medium.com/@philipshen13/monero-part-2-how-it-works-983a6344bd58
-- https://monero.stackexchange.com/questions/1685/ring-signature-and-blockchain-analysis
+- https://web.getmonero.org/resources/research-lab/
+- https://monero.stackexchange.com/questions/2254/what-advantages-does-monero-offer-that-are-not-provided-by-other-cryptocurrencie/2255#2255
+
 
 ## Bitcoin
 - https://en.bitcoin.it/wiki/Weaknesses
