@@ -1,4 +1,4 @@
-# CryptoCurrencyResources
+# Crypto-Resources
 
 
 ## Monero 
