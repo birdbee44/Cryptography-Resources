@@ -29,6 +29,8 @@
 - https://en.bitcoin.it/wiki/Privacy
 - https://blog.hubspot.com/marketing/bitcoin-address
 
+## RC4 
+- https://crypto.stackexchange.com/questions/45021/rc4-finding-key-if-we-know-plain-text-and-ciphertext
 
 ## BlockChains
 - https://www.investopedia.com/terms/1/51-attack.asp\
