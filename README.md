@@ -16,6 +16,8 @@
 - https://web.getmonero.org/resources/research-lab/
 - https://monero.stackexchange.com/questions/2254/what-advantages-does-monero-offer-that-are-not-provided-by-other-cryptocurrencie/2255#2255
 
+## Md5
+- https://tools.ietf.org/html/rfc1321
 
 ## Bitcoin
 - https://en.bitcoin.it/wiki/Weaknesses
