@@ -1,6 +1,10 @@
 # Crypto-Resources
 
-
+## SHA1
+- https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+- http://man7.org/linux/man-pages/man1/sha1sum.1.html
+- https://tools.ietf.org/html/rfc3174
+- 
 ## Monero 
 - https://monero.stackexchange.com/questions/980/what-are-the-public-viewkeys-and-spendkeys
 - https://monerodocs.org/public-address/standard-address/
