@@ -19,7 +19,7 @@
 - https://medium.com/@philipshen13/monero-part-2-how-it-works-983a6344bd58
 - https://web.getmonero.org/resources/research-lab/
 - https://monero.stackexchange.com/questions/2254/what-advantages-does-monero-offer-that-are-not-provided-by-other-cryptocurrencie/2255#2255
-
+- https://hackernoon.com/monero-multisignatures-explained-46b247b098a7
 ## Md5
 - https://tools.ietf.org/html/rfc1321
 
