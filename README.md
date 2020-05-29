@@ -48,3 +48,4 @@
 # Xor 
 - https://crypto.stackexchange.com/questions/19470/how-is-xor-used-for-encryption
 - http://www.cs.grinnell.edu/~weinman/courses/CSC161/2019S/homework/xor-cipher.shtml
+- https://hackernoon.com/reasons-why-xor-is-important-in-cryptography-6tcn32yx
