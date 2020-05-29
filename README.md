@@ -34,6 +34,7 @@
 - https://bitcoinwhoswho.com/
 - https://en.bitcoin.it/wiki/Privacy
 - https://blog.hubspot.com/marketing/bitcoin-address
+- https://en.bitcoin.it/wiki/Multisignature
 
 ## RC4 
 - https://crypto.stackexchange.com/questions/45021/rc4-finding-key-if-we-know-plain-text-and-ciphertext
@@ -43,3 +44,7 @@
 - https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners
 - https://www.youtube.com/watch?v=SSo_EIwHSd4
 - http://blockchain.mit.edu/how-blockchain-works
+
+# Xor 
+- https://crypto.stackexchange.com/questions/19470/how-is-xor-used-for-encryption
+- http://www.cs.grinnell.edu/~weinman/courses/CSC161/2019S/homework/xor-cipher.shtml
