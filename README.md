@@ -1,10 +1,13 @@
 # Crypto-Resources
+## SHA256
+- https://medium.com/bugbountywriteup/breaking-down-sha-256-algorithm-2ce61d86f7a3
 
 ## SHA1
 - https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 - http://man7.org/linux/man-pages/man1/sha1sum.1.html
 - https://tools.ietf.org/html/rfc3174
-- 
+- https://shattered.io/
+
 ## Monero 
 - https://monero.stackexchange.com/questions/980/what-are-the-public-viewkeys-and-spendkeys
 - https://monerodocs.org/public-address/standard-address/
@@ -22,7 +25,8 @@
 - https://hackernoon.com/monero-multisignatures-explained-46b247b098a7
 ## Md5
 - https://tools.ietf.org/html/rfc1321
-
+- https://crypto.stackexchange.com/questions/29775/md5-collision-attack-explained
+- https://medium.com/@shrutiavinodh/md5-collision-attack-lab-a-cryptographic-security-seedlab-448329a57f9b
 ## Bitcoin
 - https://en.bitcoin.it/wiki/Weaknesses
 - https://bitcoin.org/bitcoin.pdf
