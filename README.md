@@ -23,6 +23,7 @@
 - https://web.getmonero.org/resources/research-lab/
 - https://monero.stackexchange.com/questions/2254/what-advantages-does-monero-offer-that-are-not-provided-by-other-cryptocurrencie/2255#2255
 - https://hackernoon.com/monero-multisignatures-explained-46b247b098a7
+- https://monero.stackexchange.com/questions/1591/what-is-the-monero-testnet-how-can-i-participate-in-it
 ## Md5
 - https://tools.ietf.org/html/rfc1321
 - https://crypto.stackexchange.com/questions/29775/md5-collision-attack-explained
